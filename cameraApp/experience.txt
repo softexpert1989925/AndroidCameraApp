@@ -1,0 +1,5 @@
+using camera app, image capture and image store in the format of bitmap
+
+there are 2 ways in which we use the camera 
+   -- using exist built android camera App in our application
+   -- Directly using camera API provided by Android in our application
